@@ -1,8 +1,4 @@
 import React from "react";
-import ellipse1 from "../assets/ellipse.svg";
-import ellipse2 from "../assets/ellipse (1).svg";
-import ellipse3 from "../assets/ellipse (2).svg";
-import ellipse4 from "../assets/ellipse (3).svg";
 import vectorA from "../assets/vectorA.svg";
 import vectorB from "../assets/vectorB.svg";
 import vectorC from "../assets/vectorC.svg";

@@ -1,5 +1,5 @@
 import React from "react";
-import symbol from "../assets/Symbol2.svg";
+import symbol from "../assets/aboutsym.svg";
 import group from "../assets/groupphotos.svg";
 import curve from "../assets/curve.svg";
 
