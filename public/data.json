@@ -1,0 +1,162 @@
+[
+    {
+      "question": "What is this software about?",
+      "answer": "This software helps you recover deleted files from your desktop, provided the data has not been overwritten."
+    },
+    {
+      "question": "How do I recover a deleted file?",
+      "answer": "To recover a deleted file, you must run the recovery tool and follow the step-by-step instructions provided by the software."
+    },
+    {
+      "question": "Can I recover files from external drives?",
+      "answer": "Yes, this software can also recover deleted files from external drives like USB sticks, hard drives, and SD cards."
+    },
+    {
+      "question": "Is this software free to use?",
+      "answer": "Yes, the basic version of this software is free, but certain advanced features may require a premium subscription."
+    },
+    {
+      "question": "Is there a limit to the number of files I can recover?",
+      "answer": "There is no specific limit, but the recovery success depends on the amount of data and how long ago the files were deleted."
+    },
+    {
+      "question": "How long does the recovery process take?",
+      "answer": "The time it takes depends on the size of the drive and the number of files being recovered. It can range from a few minutes to several hours."
+    },
+    {
+      "question": "Can I recover deleted files from a full hard drive?",
+      "answer": "Yes, as long as the deleted data hasn't been overwritten, recovery is possible, even on full drives."
+    },
+    {
+      "question": "What file formats can be recovered?",
+      "answer": "You can recover a wide range of file formats including photos, documents, videos, and music files."
+    },
+    {
+      "question": "Can this software recover files from a crashed system?",
+      "answer": "Yes, as long as the hard drive is functional, you can recover files from a crashed system."
+    },
+    {
+      "question": "Do I need to install the software on the same drive I want to recover from?",
+      "answer": "No, it's recommended to install the software on a separate drive to prevent overwriting the data you're trying to recover."
+    },
+    {
+      "question": "How do I know if my deleted files can be recovered?",
+      "answer": "If the data has not been overwritten, there is a high chance of recovery. The software will scan your drive and show recoverable files."
+    },
+    {
+      "question": "Can I preview the deleted files before recovery?",
+      "answer": "Yes, the software allows you to preview recoverable files before you begin the recovery process."
+    },
+    {
+      "question": "What happens to files after recovery?",
+      "answer": "Once recovered, the files can be saved to a different drive or location, ensuring that they do not overwrite any existing data."
+    },
+    {
+      "question": "Is there a warranty or guarantee for file recovery?",
+      "answer": "While the software offers the best chances of recovery, there is no absolute guarantee that all files can be recovered."
+    },
+    {
+      "question": "How does the deep scan feature work?",
+      "answer": "The deep scan feature looks for deleted files that have been partially overwritten, and it may take longer to scan and recover those files."
+    },
+    {
+      "question": "Can I recover files from an SD card?",
+      "answer": "Yes, the software can recover deleted files from SD cards, USB drives, and other portable storage devices."
+    },
+    {
+      "question": "What do I do if the software doesn’t find my deleted files?",
+      "answer": "Try using the deep scan feature or check that the drive is not physically damaged. You can also try using recovery on another device."
+    },
+    {
+      "question": "Is my data safe with this software?",
+      "answer": "Yes, the software does not make any changes to your data until you explicitly decide to recover and save the files."
+    },
+    {
+      "question": "Can I recover files from a formatted drive?",
+      "answer": "Yes, in most cases, files can be recovered from a formatted drive if they haven't been overwritten by new data."
+    },
+    {
+      "question": "Can I recover emails using this software?",
+      "answer": "Yes, if your email data is stored on your drive, you can recover it with the right file type and recovery process."
+    },
+    {
+      "question": "Does this software work on Mac OS?",
+      "answer": "Yes, this software is compatible with both Windows and Mac OS for file recovery."
+    },
+    {
+      "question": "What if I accidentally overwrite my data after deleting it?",
+      "answer": "Once data is overwritten, it becomes much harder to recover. You should stop using the drive and try recovery as soon as possible."
+    },
+    {
+      "question": "Can this software recover files from a cloud backup?",
+      "answer": "No, this software only works with local data. To recover files from a cloud backup, you’ll need to restore them directly from the cloud provider."
+    },
+    {
+      "question": "Can I recover files after a factory reset?",
+      "answer": "A factory reset may erase the data completely, but if the data hasn't been fully overwritten, there's a chance to recover it."
+    },
+    {
+      "question": "How can I improve my chances of recovery?",
+      "answer": "Stop using the drive immediately to avoid overwriting, and run the recovery tool as soon as possible."
+    },
+    {
+      "question": "Is there a file size limit for recovery?",
+      "answer": "No, there is no specific file size limit. However, larger files may take longer to recover."
+    },
+    {
+      "question": "Does the software support RAID recovery?",
+      "answer": "Yes, the software supports recovery for RAID systems, but you may need specialized support for complex RAID configurations."
+    },
+    {
+      "question": "Can I recover files from an encrypted drive?",
+      "answer": "If the drive is encrypted, you will need to provide the decryption key before recovery can proceed."
+    },
+    {
+      "question": "Can I recover files from a virtual machine?",
+      "answer": "Yes, files from virtual machines can be recovered if the data is stored on a local drive."
+    },
+    {
+      "question": "Is there a difference between quick scan and deep scan?",
+      "answer": "Quick scan searches for recently deleted files, while deep scan goes deeper to recover files that have been deleted for a longer period."
+    },
+    {
+      "question": "Can I recover files from a broken hard drive?",
+      "answer": "If the hard drive is physically damaged, recovery might not be possible. In some cases, data recovery services may help."
+    },
+    {
+      "question": "Does the software have a mobile version?",
+      "answer": "Currently, the software is only available for desktop systems (Windows and Mac)."
+    },
+    {
+      "question": "How can I install the software?",
+      "answer": "Simply download the installer from our website and follow the installation instructions."
+    },
+    {
+      "question": "What is the difference between the free and premium versions?",
+      "answer": "The free version allows basic recovery, while the premium version includes advanced features like deep scan and faster recovery."
+    },
+    {
+      "question": "Can I recover files from an old hard drive?",
+      "answer": "Yes, as long as the data has not been overwritten or corrupted, you can recover files from old hard drives."
+    },
+    {
+      "question": "How do I uninstall the software?",
+      "answer": "You can uninstall the software by going to your computer’s control panel or settings and selecting 'Uninstall'."
+    },
+    {
+      "question": "Can I recover files from a damaged partition?",
+      "answer": "Yes, this software can scan damaged partitions and recover files, but the success depends on the level of damage."
+    },
+    {
+      "question": "What is a raw recovery scan?",
+      "answer": "A raw recovery scan searches for file signatures, often used when the file system is corrupted or lost."
+    },
+    {
+      "question": "Can I recover files after a system crash?",
+      "answer": "Yes, if the drive is intact, you can recover files after a system crash."
+    },
+    {
+      "question": "How do I prevent file loss in the future?",
+      "answer": "Regular backups and using cloud storage can help protect your data from accidental deletion or hardware failure."
+    }
+  ]
