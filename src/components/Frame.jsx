@@ -1,8 +1,8 @@
 import React from "react";
-import vectorA from "../assets/vectorA.svg";
-import vectorB from "../assets/vectorB.svg";
-import vectorC from "../assets/vectorC.svg";
-import vectorD from "../assets/vectorD.svg";
+import vectorA from "../assets/vector1.svg";
+import vectorB from "../assets/vector2.svg";
+import vectorC from "../assets/vector3.svg";
+import vectorD from "../assets/vector4.svg";
 
 const Frame = () => {
   return (
